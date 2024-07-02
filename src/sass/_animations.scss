@@ -1,0 +1,19 @@
+@keyframes heroText {
+    0% {
+        top: 10%;
+        color: transparent;
+    }
+    100% {
+        top: 0%;
+        color: $white;
+    }
+}
+
+@keyframes heroBg {
+    0% {
+        background-position: 50% 45%;
+    }
+    100% {
+        background-position: 50%;
+    }
+}
